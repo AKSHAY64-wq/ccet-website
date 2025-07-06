@@ -37,7 +37,7 @@ const AcademicsMenu = () => {
         {
             title: 'Overview',
             links: [
-                { name: 'Courses Offered', path: '/students-section/courses' },   // ✅ Now clickable
+                { name: 'Courses Offered', path: '/courses' },   // ✅ Now clickable
                 'Academic Calendar', 
                 'Academic Prospectus', 
                 'Affiliating University'
